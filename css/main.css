@@ -301,7 +301,7 @@ ul.disc li::before {
 	width: 8px;
 	height: 8px;
 	border-radius: 50%;
-	background: #FF0077;
+	background: black;
 	position: absolute;
 	left: -17px;
 	top: 11px;
